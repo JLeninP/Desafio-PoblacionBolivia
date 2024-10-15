@@ -155,7 +155,7 @@ sys.stdout.write(f'\n====================FIN PROGRAMA====================\n')
 Al igual que en el método de interpolación de Lagrange, tomando todos los datos de la tabla el valor aproximado se aleja bastante del valor real, sin embargo si se toma solo los valores cercanos al punto de observación, el error tambien disminuye considerablemente.
 
 ## Comparación
-Para esta comparación se tomá las interpolaciones con los tres valores cecanos al punto de observación.
+Para esta comparación se tomá las interpolaciones con los tres valores cercanos al punto de observación.
 |Interpolación|$P_3(x)$|$f(x)$|$E_r$|
 |:-:|:-:|:-:|:-:|
 |Lagrange|11296585.357575763|11312620|0.001417411919098934|
